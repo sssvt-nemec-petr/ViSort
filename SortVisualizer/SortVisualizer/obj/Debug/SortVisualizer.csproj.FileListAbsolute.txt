@@ -1,0 +1,11 @@
+C:\Users\nempe\Desktop\SortVisualizer-master\SortVisualizer\bin\Debug\SortVisualizer.exe.config
+C:\Users\nempe\Desktop\SortVisualizer-master\SortVisualizer\bin\Debug\SortVisualizer.exe
+C:\Users\nempe\Desktop\SortVisualizer-master\SortVisualizer\bin\Debug\SortVisualizer.pdb
+C:\Users\nempe\Desktop\SortVisualizer-master\SortVisualizer\obj\Debug\SortVisualizer.csproj.AssemblyReference.cache
+C:\Users\nempe\Desktop\SortVisualizer-master\SortVisualizer\obj\Debug\SortVisualizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\nempe\Desktop\SortVisualizer-master\SortVisualizer\obj\Debug\SortVisualizer.Form1.resources
+C:\Users\nempe\Desktop\SortVisualizer-master\SortVisualizer\obj\Debug\SortVisualizer.Properties.Resources.resources
+C:\Users\nempe\Desktop\SortVisualizer-master\SortVisualizer\obj\Debug\SortVisualizer.csproj.GenerateResource.cache
+C:\Users\nempe\Desktop\SortVisualizer-master\SortVisualizer\obj\Debug\SortVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\nempe\Desktop\SortVisualizer-master\SortVisualizer\obj\Debug\SortVisualizer.exe
+C:\Users\nempe\Desktop\SortVisualizer-master\SortVisualizer\obj\Debug\SortVisualizer.pdb
